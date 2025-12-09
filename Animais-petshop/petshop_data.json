@@ -1,0 +1,18 @@
+{
+  "tutores": [],
+  "animais": [],
+  "servicos_catalogo": [
+    {
+      "nome": "Banho",
+      "preco": 40.0
+    },
+    {
+      "nome": "Tosa",
+      "preco": 60.0
+    },
+    {
+      "nome": "Consulta",
+      "preco": 80.0
+    }
+  ]
+}
